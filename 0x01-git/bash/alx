@@ -1,5 +1,5 @@
 echo
 !/bin/bash
-school alx
+ALX
 echo ALX>>alx
 echo echo ALX
